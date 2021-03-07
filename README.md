@@ -6,7 +6,7 @@ This repository includes the assignment notebooks for the **Datajarlabs Data Sci
 
 ## Courses
 1. [Python for Everyone](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/1-%20Python%20for%20Everyone)
-2. Further into Python
+2. [Further into Python](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/2-%20Further%20into%20Python)
 3. Data Visualization with Python
 4. Introduction to Statistics
 5. Mastering the Exploratory Data Analysis

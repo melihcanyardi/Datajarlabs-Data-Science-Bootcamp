@@ -9,7 +9,7 @@ This repository includes the assignment notebooks for the **Datajarlabs Data Sci
 2. [Further into Python](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/2-%20Further%20into%20Python)
 3. [Python Data Science Libraries](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/3-%20Python%20Data%20Science%20Libraries)
 4. [Data Visualization with Python](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/4-%20Data%20Visualization%20with%20Python)
-5. Introduction to Statistics
+5. [Introduction to Statistics](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/5-%20Introduction%20to%20Statistics)
 6. Mastering the Exploratory Data Analysis
 7. Regression Problems
 8. Classification Problems

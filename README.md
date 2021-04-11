@@ -17,3 +17,6 @@ This repository includes the assignment notebooks for the **Datajarlabs Data Sci
 10. Clustering Algorithms
 11. Dimension Reduction Problems
 12. Introduction to Deep Learning
+
+## Capstone Projects
+1. [EDA Project](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/Capstone%20Projects/1-%20EDA%20Project)

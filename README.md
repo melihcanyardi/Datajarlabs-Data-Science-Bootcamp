@@ -12,7 +12,7 @@ This repository includes the assignment notebooks for the **Datajarlabs Data Sci
 5. [Introduction to Statistics](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/5-%20Introduction%20to%20Statistics)
 6. [Mastering the Exploratory Data Analysis](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/6-%20Mastering%20the%20Exploratory%20Data%20Analysis)
 7. [Regression Problems](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/7-%20Regression%20Problems)
-8. Classification Problems
+8. [Classification Problems](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/8-%20Classification%20Problems)
 9. Supervised ML Algorithms
 10. Clustering Algorithms
 11. Dimension Reduction Problems

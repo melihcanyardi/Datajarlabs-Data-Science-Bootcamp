@@ -21,5 +21,4 @@ This repository includes the assignment notebooks for the **Datajarlabs Data Sci
 ## Capstone Projects
 1. [EDA Project](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/Capstone%20Projects/1-%20EDA%20Project)
 2. [Supervised Machine Learning Project](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/Capstone%20Projects/2-%20Supervised%20Machine%20Learning%20Project)
-3. Unsupervised Machine Learning Project
-4. Graduation Project
+3. [Graduation Project](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/Capstone%20Projects/3-%20Graduation%20Project)

@@ -1,8 +1,8 @@
 # Datajarlabs-Data-Science-Bootcamp
-Datajarlabs Data Science Bootcamp - Assignment Notebooks
+Datajarlabs Data Science Bootcamp - Assignment Notebooks & Capstone Projects
 
 
-This repository includes the assignment notebooks for the **Datajarlabs Data Science Bootcamp**.
+This repository includes the assignment notebooks and capstone projects for the **Datajarlabs Data Science Bootcamp**.
 
 ## Courses
 1. [Python for Everyone](https://github.com/melihcanyardi/Datajarlabs-Data-Science-Bootcamp/tree/main/1-%20Python%20for%20Everyone)
